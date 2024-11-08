@@ -1,5 +1,7 @@
 # MollyVX-Extension
 
+**Please download MVXEx100.zip from 'Releases' on the right.**
+
 ## About MollyVX-Extension
 
 This is a patch that adds several extensions to the shader pack MollyVX.
@@ -31,8 +33,8 @@ All other changes can be found in the PDF document included in the download.
 ## Requirements
 
 - Original MollyVX (MollyVX-10-25-2022.zip)
-- OptiFine 1.17.1 or newer
-  * Note:This shader is NOT support Iris!
+- OptiFine 1.17.1 or newer  
+  *Note:This shader is NOT support Iris!*
 
 ## How to create MollyVX-10-Extension
 
