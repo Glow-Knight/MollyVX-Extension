@@ -36,7 +36,7 @@ All other changes can be found in the PDF document included in the download.
 - OptiFine 1.17.1 or newer  
   *Note:This shader is NOT support Iris!*
 
-## How to create MollyVX-10-Extension
+## How to create MollyVX-Extension
 
 The patch is provided as diff text file (unified format).
 Apply it to original shader pack using patch tool.
