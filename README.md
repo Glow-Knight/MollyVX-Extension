@@ -1,6 +1,6 @@
 # MollyVX-Extension
 
-**Please download MVXEx110.zip from 'Releases' on the right.**
+**Please download MVXEx200.zip from 'Releases' on the right.**
 
 ## About MollyVX-Extension
 
@@ -26,7 +26,9 @@ Requires the shader pack MollyVX-10-25-2022.zip. You can create MollyVX-Extensio
 - Prevents appearing puddles in dry biomes
 - Tinting transmitted light through stained glass pane as same color  
   <img src="image/sample_stainedglasspane.jpg" width="70%">  
-- Add a setting to expand the range of IrradianceCache  
+- Add a setting to expand the range of IrradianceCache
+- Lab PBR SSS(subsurface scattering) support  
+  <img src="image/sample_labpbr-sss.jpg" width="70%">  
 
   and so on
 
