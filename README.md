@@ -27,7 +27,7 @@ Requires the shader pack MollyVX-10-25-2022.zip. You can create MollyVX-Extensio
 - Tinting transmitted light through stained glass pane as same color  
   <img src="image/sample_stainedglasspane.jpg" width="70%">  
 - Add a setting to expand the range of IrradianceCache
-- Lab PBR SSS(subsurface scattering) support  
+- Lab PBR SSS(subsurface scattering) support (->[other sample](https://github.com/Glow-Knight/MollyVX-Extension/blob/main/sss_sample.md))  
   <img src="image/sample_labpbr-sss.jpg" width="70%">  
 
   and so on
