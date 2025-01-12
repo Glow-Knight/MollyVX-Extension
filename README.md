@@ -1,6 +1,6 @@
 # MollyVX-Extension
 
-**Please download MVXEx200.zip from 'Releases' on the right.**
+**Please download MVXEx210.zip from 'Releases' on the right.**
 
 ## About MollyVX-Extension
 
@@ -29,6 +29,7 @@ Requires the shader pack MollyVX-10-25-2022.zip. You can create MollyVX-Extensio
 - Add a setting to expand the range of IrradianceCache
 - Lab PBR SSS(subsurface scattering) support (->[other sample](https://github.com/Glow-Knight/MollyVX-Extension/blob/main/sss_sample.md))  
   <img src="image/sample_labpbr-sss.jpg" width="70%">  
+- Lab PBR porosity support
 
   and so on
 
@@ -54,10 +55,11 @@ Tool for Windows to automate patching will also be included.
 ### How to use
 
 1. Extract MVXEx###.zip.
-2. Double-click the shortcut 'mollyvx_patch' in the extracted folder to launch it.
-The process is created using a PowerShell script. PowerShell scripts(.ps1) cannot be executed by double-clicking, and must be launched from the shortcut 'mollyvx_patch' that has been granted permission to run the script. Note that the included patch.exe is a patch tool that is called as a command within this tool, and double-clicking it will not process anything.
-3. Click the \[Browse...] button to specify the original shader pack ZIP file. This file is only referenced and will not be directly overwritten.
-4. Press the \[Start] button to begin processing. When complete, MollyVX-Extension###.zip will be output to the same folder as this tool.
+2. Double-click the shortcut 'mollyvx_patch' in the extracted folder to launch it.  
+The process is created using a PowerShell script. PowerShell scripts(.ps1) cannot be executed by double-clicking, and must be launched from the shortcut 'mollyvx_patch' that has been granted permission to run the script. Note that the included patch.exe is a patch tool that is called as a command within this tool, and double-clicking it will not process anything.  
+ (-> [when fails to run](./run_ps1.md) )
+4. Click the \[Browse...] button to specify the original shader pack ZIP file. This file is only referenced and will not be directly overwritten.
+5. Press the \[Start] button to begin processing. When complete, MollyVX-Extension###.zip will be output to the same folder as this tool.
 
 The completed MollyVX-Extension###.zip will only work with OptiFine.
 
