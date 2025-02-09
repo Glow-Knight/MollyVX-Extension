@@ -1,6 +1,6 @@
 # MollyVX-Extension
 
-**Please download MVXEx211.zip from 'Releases' on the right.**
+**Please download MVXEx220.zip from 'Releases' on the right.**
 
 ## About MollyVX-Extension
 
@@ -30,6 +30,8 @@ Requires the shader pack MollyVX-10-25-2022.zip. You can create MollyVX-Extensio
 - Lab PBR SSS(subsurface scattering) support (->[other sample](https://github.com/Glow-Knight/MollyVX-Extension/blob/main/sss_sample.md))  
   <img src="image/sample_labpbr-sss.jpg" width="70%">  
 - Lab PBR porosity support
+- Added the Auroras to the night sky in cold regions  
+  <img src="image/sample_aurora.jpg" width="70%">  
 
   and so on
 
